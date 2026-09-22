@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(iconv -f GBK -t UTF-8 yaoqiu.c)",
+      "Bash(iconv -f GB18030 -t UTF-8 yaoqiu.c)",
+      "Bash(xxd Drivers/BSP/SERIAL/SERIAL.h)",
+      "Bash(xxd Drivers/BSP/SERIAL/SERIAL.c)",
+      "Bash(xxd)"
+    ]
+  }
+}
